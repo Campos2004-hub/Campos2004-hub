@@ -42,8 +42,8 @@
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [**JOVI Moments**](https://github.com/Campos2004-hub/NOME_DO_REPOSITORIO) | Aplicação web mobile-first, desafio da FIAP | Web |
-| [**SCREENMATCH**](https://github.com/Campos2004-hub/NOME_DO_REPOSITORIO) | Aplicação backend, cursos da alura | Java |
+| [**JOVI Moments**](https://github.com/Campos2004-hub/JOVI-MOMENTS.git) | Aplicação web mobile-first, desafio da FIAP | Web |
+| [**SCREENMATCH**](https://github.com/Campos2004-hub/screenmatch.git) | Aplicação backend, cursos da alura | Java |
 
 
 ## 📊 Estatísticas do GitHub
