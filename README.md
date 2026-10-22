@@ -20,7 +20,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (FIAP) com foco em *Java e d
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [*sistema-bancario-sql*](https://github.com/Campos2004-hub/screenmatch.git) | API REST de catálogo de streaming desenvolvido por cursos da alura | Java, SQL, Springboot  |
+| [*screenmatch*](https://github.com/Campos2004-hub/screenmatch.git) | API REST de catálogo de streaming desenvolvido por cursos da alura | Java, SQL, Springboot  |
 | [*jovi-moments*](https://github.com/Campos2004-hub/JOVI-MOMENTS.git) | Aplicação web mobile-first desenvolvida no Challenge FIAP | Web |
 
 ---
