@@ -6,10 +6,6 @@
   Em busca de estágio em desenvolvimento de software, com interesse em instituições financeiras 🏦
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Campos2004-hub&label=Visitas&color=0e75b6&style=flat" alt="Visitas" />
-</p>
-
 ---
 
 ## 🎯 Sobre mim
